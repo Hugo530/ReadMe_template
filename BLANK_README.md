@@ -30,10 +30,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/username/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Stiltskinner/Pig-E-Bank/blob/main/images/pig.png" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Pig-E-Bank</h3>
 
   <p align="center">
     The Pig-e-Bank app allows users to split up their paychecks into "pigs" which hold money for different purposes.  Users will have a pig for bills, entertainment, savings, or whatever the user would like to create. Money is deposited into the app by the user, the amount is up to the user. 
