@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Stiltsskinner/">
+  <a href="https://github.com/Stiltsskinner/Pig-E-Bank">
     <img src="https://github.com/Stiltskinner/Pig-E-Bank/blob/main/images/pig.png" alt="Logo" width="100" height="100">
   </a>
 
