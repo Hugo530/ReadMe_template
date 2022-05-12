@@ -22,7 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -161,5 +161,5 @@ Project Link: (https://infinite-falls-27891.herokuapp.com/)
 [issues-url]: https://github.com/Stiltskinner/Pig-E-Bank/issues
 [license-shield]: https://img.shields.io/github/license/Stiltskinner/Pig-E-Bank.svg?style=for-the-badge
 [license-url]: https://github.com/Stiltskinner/Pig-E-Bank/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 [product-screenshot]: images/screenshot.png
